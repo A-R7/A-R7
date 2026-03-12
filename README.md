@@ -2,9 +2,9 @@
 
 # Hi there, I'm Abdul Rahman! 👋
 
-### SDET Intern @ BrowserStack (Enterprise Team)
+### SDET Intern @ BrowserStack (Revenue Org)
 
-I am a passionate developer and tester currently working on enterprise team.
+I am a passionate developer and tester currently working on growth team of revenue Org.
 
 ---
 
